@@ -28,6 +28,8 @@ const defaultConfig: Configuration = {
                         }
                     }
                 }
+            }, {
+                loader: 'ts-loader'
             }]
         }, {
             test: /\.s?([ca])ss$/,

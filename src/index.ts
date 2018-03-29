@@ -3,6 +3,5 @@
  * 项目入口
  * @author Ouyang
  */
-import './example';
-
+import './example2';
 console.log('Hello ts starter');
